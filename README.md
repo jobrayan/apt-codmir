@@ -6,11 +6,11 @@ Ubuntu/Debian package repository for Codmir Desktop.
 
 ```bash
 # One-liner
-curl -fsSL https://jobrayan.github.io/apt-codmir/install.sh | bash
+curl -fsSL https://apt.codmir.com/install.sh | bash
 
 # Or manually:
-curl -fsSL https://jobrayan.github.io/apt-codmir/gpg | sudo gpg --dearmor -o /usr/share/keyrings/codmir.gpg
-echo "deb [signed-by=/usr/share/keyrings/codmir.gpg] https://jobrayan.github.io/apt-codmir stable main" | sudo tee /etc/apt/sources.list.d/codmir.list
+curl -fsSL https://apt.codmir.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/codmir.gpg
+echo "deb [signed-by=/usr/share/keyrings/codmir.gpg] https://apt.codmir.com stable main" | sudo tee /etc/apt/sources.list.d/codmir.list
 sudo apt update
 sudo apt install codmir
 ```

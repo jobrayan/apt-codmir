@@ -1,0 +1,15 @@
+Origin: Codmir
+Label: Codmir
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: Codmir Desktop Application Repository
+Date: Tue, 13 Jan 2026 12:06:56 +0000
+MD5Sum:
+ 6c8351efaa6987f543977d69d3b15bf9 427 main/binary-amd64/Packages.gz
+ 15fb72920bd8e1cfd0476b7c32fdfbfc 565 main/binary-amd64/Packages
+SHA256:
+ ef4d2b4cb667f5f859a5b0f997fa94f21bb342087fce81b71312e756532a5510 427 main/binary-amd64/Packages.gz
+ a1cd7a2b8bf69e68b834704e4f9e8b0746282ecb786b64fea489c71f6688e338 565 main/binary-amd64/Packages

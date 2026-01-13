@@ -1,0 +1,15 @@
+Package: codmir
+Version: 0.1.0
+Architecture: amd64
+Maintainer: Codmir Team
+Installed-Size: 9789
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/c/codmir/Codmir_0.1.0_amd64.deb
+Size: 4356908
+MD5sum: 0158d687cab3e74f1461bc7ec5d9e5c1
+SHA1: 648026d6072617018a8fe75bccee1678246dae98
+SHA256: d2356903b05e3a2a8ed895a3a21398c9bc0dc5cacc1c2df747f033bdba3abde4
+Priority: optional
+Description: Chat + Tickets + Execution
+ Codmir - A Slack alternative where chat becomes tickets, commands run with approval, and repos stay in context.
+

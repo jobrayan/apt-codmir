@@ -4,7 +4,7 @@
 
 set -e
 
-APT_REPO_URL="${APT_REPO_URL:-https://codmir.github.io/apt}"
+APT_REPO_URL="${APT_REPO_URL:-https://jobrayan.github.io/apt-codmir}"
 
 echo "=== Installing Codmir Desktop ==="
 echo ""
